@@ -1,0 +1,11 @@
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\bin\Debug\PetManager.exe.config
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\bin\Debug\PetManager.exe
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\bin\Debug\PetManager.pdb
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\obj\Debug\PetManager.csprojResolveAssemblyReference.cache
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\obj\Debug\PetManager.PetManagerForm.resources
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\obj\Debug\PetManager.Properties.Resources.resources
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\obj\Debug\PetManager.StatisticForm.resources
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\obj\Debug\PetManager.csproj.GenerateResource.Cache
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\obj\Debug\PetManager.csproj.CoreCompileInputs.cache
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\obj\Debug\PetManager.exe
+C:\School\SoftwareEngineering\GIT\PetManager\PetManager\obj\Debug\PetManager.pdb
